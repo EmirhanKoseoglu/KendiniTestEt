@@ -1,0 +1,2 @@
+# KendiniTestEt
+Ödev
