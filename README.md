@@ -13,8 +13,11 @@ olmayan matematik işlemi ve şıklar gözükür ve cevaplar istenir.
 Puanlama:
 
 0-20 Kötü
+
 20-40 Orta
+
 40-60 Orta/İyi
+
 60 + Çok İyi
 
 İleride farklı oyunlar yüklenerek güncellenecektir.
