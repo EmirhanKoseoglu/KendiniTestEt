@@ -5,10 +5,17 @@ Oyunun Amacı:
 Oyun iki aşamadan oluşuyor. 
 
 Birincisinde oyuncuya 10 saniye verilecek ve düz beyaz bir 
-ekranda belirli aralıklarda görünüp kaybolan noktalara mouse 1 ile tıklanması istenecek.
+ekranda belirli aralıklarda görününen toplara mouse 1 ile tıklanması istenecek. 4 topun 3'ü puan verirken 1 tanesi puan azaltıyor.
 
-İkinci Aşamada oyuncunun hafıza ve hesap yetenekleri ölçülecek. Ekranda sonucu belli 
-olmayan matematik işlemi ve şıklar gözükür ve cevaplar istenir.
+Hangi topu vuracağınız size kalmış.
+
+İkinci Aşamada oyuncunun hafıza ve hesap yetenekleri ölçülecek.
+
+Ekranda sonucu belli olmayan matematik işlemi ve şıklar gözükür ve cevaplar istenir.
+
+Her doğru cevap skoru bir arttırır. Her yanlış cevap skoru 1 azaltır.
+
+Ve en sonda iki oyunun skorları toplanır. Yaptığınız derece ile ekrana yazdırılır.
 
 Puanlama:
 
