@@ -1,5 +1,21 @@
 # KendiniTestEt
-Çeşitli yöntemler ile dikkat, hafıza ve hesap yeteneklerinizi ölçün.
+
+Oyunun Amacı:
+
+Oyun iki aşamadan oluşuyor. 
+
+Birincisinde oyuncuya 10 saniye verilecek ve düz beyaz bir 
+ekranda belirli aralıklarda görünüp kaybolan noktalara mouse 1 ile tıklanması istenecek.
+
+İkinci Aşamada oyuncunun hafıza ve hesap yetenekleri ölçülecek. Ekranda sonucu belli 
+olmayan matematik işlemi ve şıklar gözükür ve cevaplar istenir.
+
+Puanlama:
+
+0-20 Kötü
+20-40 Orta
+40-60 Orta/İyi
+60 + Çok İyi
 
 İleride farklı oyunlar yüklenerek güncellenecektir.
 
